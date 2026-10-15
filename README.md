@@ -215,6 +215,8 @@ Data exports to Excel, CSV, TXT, HTML, or databases (MySQL, MongoDB). ScrapeStor
 
 AI-powered web scraping extension to build and scrape websites visually in browser extension, and API/MCP integration for automated data extraction.
 
+<img width="1450" height="843" alt="Agenty" src="https://github.com/user-attachments/assets/032a1bed-ffcb-4b83-8f04-29a501275bb5" />
+
 Agenty combines no-code scraping with AI-powered automation to extract structured data from websites. Use the [browser extension](https://chromewebstore.google.com/detail/agenty-advanced-web-scrap/gpolcofcjjiooogejfbaamdgmgfehgff) to select and capture data from web pages, or build custom scraping agents for complex workflows involving navigation, pagination, and dynamic content. Automate repetitive extraction tasks and collect data from multiple URLs without manually copying information.
 
 Extract data from product listings, business directories, job boards, search results, and other web pages. Clean and transform scraped data with post-processing rules, then export or integrate results into your existing workflows using APIs and MCP for AI agents. Agenty supports use cases such as e-commerce price monitoring, lead generation, competitor research, and large-scale web data collection.
